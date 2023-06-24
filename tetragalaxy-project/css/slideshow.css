@@ -1,0 +1,10 @@
+.slideshow-img {
+  border-radius: 50281290px;
+  filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.7058823529));
+}
+.slideshow-img-wrapper {
+  padding: 12px;
+  background: rgb(11, 2, 158);
+  background: radial-gradient(circle, rgb(11, 2, 158) 8%, rgb(9, 9, 121) 91%, rgb(0, 212, 255) 100%);
+  border-radius: 502890px;
+}/*# sourceMappingURL=slideshow.css.map */

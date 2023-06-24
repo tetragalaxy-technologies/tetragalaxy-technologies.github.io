@@ -1,0 +1,124 @@
+body {
+  font-family: "Bitter", serif;
+}
+
+.is-mono-font {
+  font-family: "Ysabeau Office", sans-serif;
+}
+
+.is-strong-font {
+  font-family: "Pathway Extreme", sans-serif;
+}
+
+.has-text-blue {
+  color: #004dff !important;
+}
+.has-text-light-blue {
+  color: #0099ff !important;
+}
+
+.has-background-blue {
+  background-color: #004dff !important;
+}
+.has-background-light-blue {
+  background-color: #0099ff !important;
+}
+
+#headline-image {
+  background: linear-gradient(to top, #1504fd, rgba(4, 83, 253, 0.8588235294), rgba(7, 124, 250, 0.6078431373)), url(../img/people-coding.jpg) no-repeat top center;
+  overflow: hidden;
+  height: 100vh;
+  width: 100%;
+  padding: 0;
+}
+
+.headline-text {
+  text-shadow: 2px 2px rgb(0, 29, 133);
+}
+
+.curved {
+  position: relative;
+  background: linear-gradient(to top, rgba(231, 231, 231, 0.7411764706), rgba(255, 255, 255, 0.0862745098));
+  height: 50vh;
+}
+
+.curved::after {
+  content: "";
+  border-top-left-radius: 45% 100%;
+  border-top-right-radius: 45% 100%;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: #004dff;
+  height: 44%;
+}
+
+.animated-svg {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.is-curved-button {
+  border-radius: 50px;
+}
+
+#footer {
+  background: linear-gradient(to top, #14378a, #004cff);
+}
+
+#animated-svg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+#loader-wrapper {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #0099ff;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1050;
+}
+
+#loader-wrapper.loaded {
+  display: none;
+}
+
+#loader {
+  display: block;
+  position: relative;
+  top: 35%;
+  left: 50%;
+  width: 100px;
+  height: 100%;
+  z-index: 1500;
+}
+
+.loaded #loader {
+  opacity: 0;
+}
+
+.loaded #loader-wrapper {
+  visibility: hidden;
+}
+
+.loaded #loader {
+  opacity: 0;
+  transition: all 0.3s ease-out;
+}
+
+.loaded #loader-wrapper .loader-section.section-right,
+.loaded #loader-wrapper .loader-section.section-left {
+  transition: all 0.3s 0.3s ease-out;
+}
+
+.loaded #loader-wrapper {
+  transform: translateY(-100%);
+  transition: all 0.3s 0.6s ease-out;
+}/*# sourceMappingURL=main.css.map */
