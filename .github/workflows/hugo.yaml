@@ -49,14 +49,14 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
       - name: Install Node.js dependencies
-        run: npm install
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          tailwindcss -i ./themes/tella/assets/css/main.css -o ./themes/tella/assets/css/style.css && \
+          npx tailwindcss -i ./themes/tella/assets/css/main.css -o ./themes/tella/assets/css/style.css && \
           hugo \
             --gc \
             --minify \
