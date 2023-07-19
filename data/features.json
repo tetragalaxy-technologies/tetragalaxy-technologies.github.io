@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Modern",
+    "description": "We stay up to date with the latest developments and trends in the industry.",
+    "icon": "icon-desktop_windows"
+  },
+  {
+    "title": "Fast and Effective",
+    "description": "Embracing a culture of continuous learning and adaptability enables us to respond rapidly to evolving customer needs",
+    "icon": "icon-lightbulb_outline"
+  },
+  {
+    "title": "User-Centric Design",
+    "description": "Placing users at the core of product development ensures that we creates intuitive, engaging, and valuable solutions that resonate with our target audience",
+    "icon": "icon-person",
+    "link": "https://github.com/opera7133/tella"
+  }
+]
