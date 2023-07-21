@@ -3,7 +3,7 @@ title: "Basic Computing Skills and Microsoft Packages"
 date: 2023-07-16T12:00:00+10:00
 draft: false
 featured: true
-weight: 120
+weight: 2
 image: "/img/courses/course-1.jpg"
 description: Designed to provide individuals with a solid foundation in computer literacy and proficiency in using Microsoft software applications. The course covers essential concepts and practical skills required to navigate and utilize common computing tools effectively.
 ---

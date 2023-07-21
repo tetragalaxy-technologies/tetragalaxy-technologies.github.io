@@ -18,8 +18,8 @@ enableRobotsTXT = true
 
 [params]
 
-  showBlog = true
-  mainSections = ['courses']
+  # showBlog = true
+  mainSections = ['courses', 'blog']
 
   googleFonts = true
 
