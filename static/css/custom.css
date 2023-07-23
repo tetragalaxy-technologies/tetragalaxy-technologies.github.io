@@ -17,3 +17,20 @@
   ); /* Overlay gradient color */
   pointer-events: none; /* Allow clicks and interactions on the underlying image */
 }
+
+
+.chat-whatsapp{
+  background-color: #09e464;
+  text-align: center;
+  color: #fff;
+  position: fixed;
+  top: 80vh;
+  right: 1.5rem;
+  border-radius: 10px;
+  height: 3rem;
+  display: flex;
+  flex-direction: column;
+  z-index: 1500;
+  padding: 0.5em 1em 0.75em;
+  cursor: pointer;
+}

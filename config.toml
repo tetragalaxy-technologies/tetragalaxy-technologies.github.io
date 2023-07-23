@@ -94,3 +94,9 @@ enableRobotsTXT = true
     url = "https://github.com/opera7133/tella"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 4
+
+  [[menu.footer]]
+    name = "WhatsApp"
+    url = "https://wa.me/85261234567"
+    pre = "<i class='icon-wikimedia'></i>"
+      weight = 4

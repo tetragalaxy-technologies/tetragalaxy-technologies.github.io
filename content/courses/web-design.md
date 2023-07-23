@@ -8,9 +8,6 @@ image: "/img/courses/course-2.jpg"
 description: Designed to provide individuals with a comprehensive understanding of web development principles and practical skills. Participants will learn the fundamental concepts and technologies involved in building websites, including HTML, CSS, and JavaScript. The course covers both front-end and back-end development, equipping students with the knowledge to create interactive and dynamic web pages. By the end of the course, participants will have the necessary foundation to pursue further studies in web development or start building their own websites.
 ---
 
-Introduction to Web Development
-
-Course Overview:
 The Introduction to Web Development course aims to provide individuals with a solid foundation in web development principles and techniques. The course covers the essential concepts and technologies used in building websites, including HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), and JavaScript. Participants will gain hands-on experience in both front-end and back-end development, enabling them to create interactive and dynamic web pages. Throughout the course, participants will learn how to structure web content, style web pages, and add functionality using JavaScript. By the end of the course, students will possess the necessary skills to begin their journey as web developers.
 
 Course Objectives:
