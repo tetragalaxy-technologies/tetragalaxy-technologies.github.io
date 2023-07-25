@@ -24,10 +24,11 @@
   text-align: center;
   color: #fff;
   position: fixed;
-  top: 80vh;
+  bottom: 12vh;
   right: 1.5rem;
   border-radius: 10px;
-  height: 3rem;
+  max-width: 20vw;
+  /* height: 3rem; */
   display: flex;
   flex-direction: column;
   z-index: 1500;
