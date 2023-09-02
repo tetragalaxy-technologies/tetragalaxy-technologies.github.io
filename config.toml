@@ -79,24 +79,19 @@ enableRobotsTXT = true
 
   [[menu.footer]]
     name = "Facebook"
-    url = "https://github.com/opera7133/tella"
+    url = "hhttps://web.facebook.com/profile.php?id=100069268480867"
     pre = "<i class='icon-facebook text-2xl'></i>"
       weight = 2
   
   [[menu.footer]]
-    name = "Twitter"
-    url = "https://github.com/opera7133/tella"
-    pre = "<i class='icon-twitter text-2xl'></i>"
+    name = "Instagram"
+    url = "https://www.instagram.com/Tetragalaxytech/"
+    pre = "<i class='fa-brands fa-square-instagram text-2xl'></i>"
       weight = 3
 
-  [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/opera7133/tella"
-    pre = "<i class='icon-github text-2xl'></i>"
-      weight = 4
 
   [[menu.footer]]
     name = "WhatsApp"
-    url = "https://wa.me/85261234567"
-    pre = "<i class='icon-wikimedia'></i>"
+    url = "https://wa.me/08062694891"
+    pre = "<i class='fa-brands fa-whatsapp text-2xl'></i>"
       weight = 4

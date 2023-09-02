@@ -27,7 +27,3 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 <br>
 
 
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}

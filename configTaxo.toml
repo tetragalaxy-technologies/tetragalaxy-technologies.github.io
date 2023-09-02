@@ -8,10 +8,6 @@ series = "series"
 
 [privacy]
 
-  [privacy.vimeo]
-    disabled = false
-    simple = true
-
   [privacy.twitter]
     disabled = false
     enableDNT = true
