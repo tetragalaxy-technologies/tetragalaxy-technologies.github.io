@@ -35,7 +35,14 @@
         <img class="my-4" src="{{ .Params.image | absURL }}">
         {{ end }}
         <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1">{{.Content}}</div>
-        <div class="share m-2 grid grid-cols-2 lg:grid-cols-3 gap-2">
+        <br>
+        <hr>
+        <br>
+        <h2 class="text-3xl font-bold mb-4">Register Now</h2>
+        <p>Get in touch with our team</p>
+        {{- partial "course-reg-form.html" . -}}
+        
+        <div class="share p-2 m-3 grid grid-cols-2 lg:grid-cols-3 gap-2">
             <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}" target="_blank"
                 title="Tweet" class="share-button twitter">
                 <div class="text-white text-center">
