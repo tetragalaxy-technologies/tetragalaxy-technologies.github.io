@@ -1,12 +1,22 @@
 [
   {
+    "title": "We're a bridge",
+    "description": "that connects people to success",
+    "image": "img/slide/tg-instructor.jpeg"
+  },
+  {
+    "title": "Find and Connect with Opportunities",
+    "image": "img/slide/office-workers.jpg",
+    "description":"Build a network of stellar individuals all committed to your success"
+  },
+  {
     "title": "Unleash Your Digital Potential",
     "image": "img/slide/tg-shop-1.jpeg",
     "description":"TetraGalaxy Technologies is your premier choice for top-notch IT Training in Nigeria."
   },
   {
     "title": "Transform Your Future",
-    "image": "img/slide/tg-instructor.jpeg",
+    "image": "img/slide/laptop-on-table.jpg",
     "description":"Experience Unparalleled Practical Learning in the city of Abuja and beyond."
   },
   {

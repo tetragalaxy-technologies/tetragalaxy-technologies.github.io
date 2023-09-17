@@ -24,3 +24,16 @@ Step into TetraGalaxy Technologies and unlock a world of possibilities. Whether 
 Join us at TetraGalaxy Technologies, where technology meets excellence, and together, we reach for the stars.
 
 [Contact us today to explore how we can propel your business and skills to new heights.](/contact)
+
+## Partners
+  - [iTech](https://web.facebook.com/itecheducationng/?_rdc=1&_rdr)
+   <a href="https://web.facebook.com/itecheducationng/?_rdc=1&_rdr"><img src='/img/partners/itech-logo.jpg' alt="Itech Logo" width='50%'></a>
+
+    *** 
+
+ - [Flawless Computer Technologies](https://flawless-computer-technology.business.site/?utm_source=gmb&utm_medium=referral)
+    <a href="https://flawless-computer-technology.business.site/?utm_source=gmb&utm_medium=referral"><img src='/img/partners/flawless-logo.png' alt="Flawless Computer Technologies" width='50%'></a>
+    ***
+
+- [Abutech](http://www.abutechacademy.com.ng/)
+    <a href="http://www.abutechacademy.com.ng/"><img src='/img/partners/abutech-logo.jpg' alt="Abutech Logo" width='30%'></a>

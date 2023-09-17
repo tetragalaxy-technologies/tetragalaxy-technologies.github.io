@@ -92,6 +92,11 @@ enableRobotsTXT = true
 
   [[menu.footer]]
     name = "WhatsApp"
-    url = "https://wa.me/08062694891"
+    url = "https://wa.me/+2348062694891"
     pre = "<i class='fa-brands fa-whatsapp text-2xl'></i>"
       weight = 4
+
+ignoreErrors = ["error-remote-getjson"]
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
